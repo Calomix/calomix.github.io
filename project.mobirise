@@ -91,7 +91,7 @@
     "uniqCompNum": 16,
     "versionPublish": "6.1.12",
     "screenshot": "screenshot.png",
-    "publishEditFolder": true
+    "publishEditFolder": false
   },
   "pages": {
     "index.html": {
